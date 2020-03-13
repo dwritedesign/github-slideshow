@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*Yeah **Daria!** You’re learning **GitHub** finally*
+Alas you’re doing a great job, keep learning __code__. 
 Use the left arrow to go back!
